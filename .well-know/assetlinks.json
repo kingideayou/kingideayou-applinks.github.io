@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "me.next.applinksdemo",
+    "sha256_cert_fingerprints":
+    ["DB:1D:BD:A3:13:17:DF:07:11:9D:CB:8C:7A:E8:17:75:CB:FC:78:A1:B6:6B:EF:B8:99:B9:D8:9E:20:20:67:DA"]
+  }
+}]
